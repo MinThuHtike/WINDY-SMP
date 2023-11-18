@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WINDY SMP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to WINDY SMP</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#rules">Server Rules</a></li>
+                <li><a href="#members">Members</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Introduce your server and provide the server IP and key features here.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Provide information about your SMP, server history, and goals.</p>
+    </section>
+
+    <section id="rules">
+        <h2>Server Rules</h2>
+        <ul>
+            <li>Rule 1: Respect other players.</li>
+            <li>Rule 2: No griefing.</li>
+            <li>Rule 3: Follow community guidelines.</li>
+            <!-- Add more rules as needed -->
+        </ul>
+    </section>
+
+    <section id="members">
+        <h2>Members</h2>
+        <ul>
+            <li>Player 1 - Bio and Username</li>
+            <li>Player 2 - Bio and Username</li>
+            <!-- Add more members as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Include a contact form or provide an email address for inquiries.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 WINDY SMP. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
